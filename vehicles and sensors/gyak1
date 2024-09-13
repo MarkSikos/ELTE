@@ -1,0 +1,89 @@
+darpa grand challange -what can we learn from it?
+
+DARPA (defense advanced research project agency earlier ==> ARPA) challange is a challenge  in america (one desert route and one city route included) to develop military use autonomous vehicles. The vehicles competing must complete the course the shortest time possible, while obeying all traffic conventions and enduring harsh desert condiitons. The first year it waas  organized (2003) no competitors were able to complete the desert route. However in 2005 the Stanford team completed it in 6 hours.  The challenge was discontinued after 2007, and DARPA shifted focus toward AI challenges.
+What can we learn from it?
+The power of Open Innovation and Collaboration
+    Crowdsourcing ideas fosters innovation and rapid development.
+Rapid Iteration and Prototyping
+    Real-world testing is essential for building robust systems.
+Competition Drives Innovation
+    Incentives like prize money motivate participants to push boundaries.
+    Competition provides benchmarks to measure and improve technology.
+
+Pioneering Autonomous Technology
+    The challenges significantly advanced autonomous vehicle technology.
+    Bridging the gap between research and real-world application.
+
+
+what is a robot? what are the categories of a robot?
+
+Robot is a machine that can operate on its own. The word robot comes from the slavic root (robot, first mentioned in czech - a fictional humanoid machine.) The six most common types of robots are autonomous mobile robots (AMRs), automated guided vehicles (AGVs), articulated robots, humanoids, cobots, and hybrids. (https://www.intel.com/content/www/us/en/robotics/types-and-applications.html). AMRs navigate autonomously, used in logistics and healthcare. AGVs follow fixed paths in factories for material transport. Articulated robots, with rotating joints, excel in tasks like welding and assembly. Humanoids resemble humans and are used in customer service and healthcare. Cobots work safely alongside humans in tasks like packaging. Hybrids combine features from multiple robot types for versatile use across industries like logistics and manufacturing.
+
+compare computers and robots -> which is whiches subset. What is the difference.
+
+Computers process data, execute software, and manage information but do not interact with the physical world. Robots, however, combine computational power with mechanical components, allowing them to perform tasks like movement and manipulation. Robots rely on computers for control, making them a subset of computers. Also, robots are capable of autonomous or semi-autonomous behaviour, howver not all computers are capable of such. (i.e. EDVAC). Computerts are computing units.
+
+difference between a robot and a self driving car?
+
+A robot is a machine that can perform tasks autonomously or semi-autonomously, often interacting with its environment through sensors, actuators, and computation. A self-driving car is a specific type of robot designed for autonomous navigation on roads. While both robots and self-driving cars use sensors, AI, and computational systems, the key difference is their function: robots perform a wide range of tasks, while self-driving cars are specialized for transportation and driving tasks.
+
+
+what is an autonomous vehicle?
+
+An autonomous vehicle is a vehicle capable of sensing its environment and operating without human intervention. It uses technologies such as cameras, sensors, GPS, radar, and AI-based software to perceive its surroundings, make decisions, and navigate safely. Autonomous vehicles range from self-driving cars to drones and are designed to perform driving tasks like steering, braking, and accelerating on their own.
+
+what types of vehicles exist? why are they important? what is their limit?
+
+The KRESZ (Hungarian Highway Code) classifies vehicles into three general categories: motor vehicles, which are powered by their own engine; non-motor vehicles, which may have their own engine but are not considered motor vehicles; and non-motorized vehicles, which do not have their own engine.
+
+what are the sensors? why sensors are important?
+
+A sensor is a device that detects and responds to some type of input from the physical environment. The input can be light, heat, motion, moisture, pressure or any number of other environmental phenomena. The output is generally a signal that is converted to a human-readable display at the sensor location or transmitted electronically over a network for reading or further processing.
+Sensors play a pivotal role in comuter science. They make it possible to create an ecosystem for collecting and processing data about a specific environment so it can be monitored, managed and controlled more easily and efficiently. (https://www.techtarget.com/whatis/definition/sensor)
+
+what type of sensors exist? whati is the importance of it? (main categories, why important)?
+(https://nybsys.com/types-of-sensors/)
+
+    Accelerometer Sensors: Measure static/dynamic acceleration (gravity, motion). Used in navigation, control systems, smartphones.
+    Gyroscope Sensors: Measure rotational motion and angular velocity. Used in cameras, gaming, vehicle stability.
+    Temperature Sensors: Detect temperature changes. Used in HVAC, industrial machines, aircraft.
+    Vision/Imaging Sensors: Detect objects/colors, convert to images. Used in tracking, quality control, object recognition.
+    Proximity Sensors: Detect objects without contact. Used in automation, safety, operational controls.
+    Infrared (IR) Sensors: Detect motion/heat through infrared radiation. Used in motion detectors, thermal imaging, gas detection.
+    Radiation Sensors: Measure gamma and x-radiation levels. Used in radiation protection, search systems.
+    Position Sensors: Measure displacement/rotation. Used in robotics, industrial machinery, automotive.
+    Pressure Sensors: Measure pressure changes via electrical signals. Used in automotive, medical, HVAC.
+    Particle Sensors: Detect particles in air/liquids (air quality). Used in environmental monitoring, healthcare, robotics.
+    Photoelectric Sensors: Detect objects using light beams. Used in object detection, packaging, material handling.
+    Ultrasonic Sensors: Measure distance with ultrasonic waves. Used in parking assistance, object detection.
+    Level Sensors: Measure liquid levels. Used in water treatment, fuel management, industrial tanks.
+    Leak Sensors: Detect liquid/gas leaks. Used in water leak detection, industrial safety.
+    Metal Sensors: Detect metals (metal detectors). Used in security, recycling, manufacturing.
+    Motion Sensors: Detect movement/motion. Used in security, smart lighting, gesture recognition.
+    Gas/Chemical Sensors: Detect gases or chemicals. Used in pollution monitoring, safety, industrial processes.
+    Force Sensors: Measure tension, compression, or stress. Used in load cells, industrial machines, wearables.
+    Humidity Sensors: Measure air moisture. Used in HVAC, agriculture, weather monitoring.
+    Electrical Sensors: Detect voltage, current, resistance. Used in power systems, electronics, railways.
+
+darpa challange vs nowadays self driving cars
+
+
+1) Goals and Environment
+
+    DARPA Challenge: Focused on pushing the boundaries of autonomous technology in off-road (2004, 2005) and urban environments (2007). The goal was to inspire innovation, with vehicles navigating predefined courses with limited real-time adaptation.
+    Today's Self-Driving Cars: Designed for real-world use in urban and highway environments. They must handle dynamic and unpredictable scenarios like heavy traffic, pedestrians, and complex road systems.
+
+2. Technology
+
+    DARPA Challenge: Vehicles primarily relied on GPS, LIDAR, radar, and basic machine learning for navigation. The algorithms were not as sophisticated, and vehicles struggled with real-time decision-making.
+    Today's Self-Driving Cars: Advanced AI, deep learning, and complex sensor fusion systems are used. Cars process vast amounts of real-time data from cameras, LIDAR, radar, and GPS, allowing them to handle a wider variety of complex driving situations.
+
+3. Autonomy Levels
+
+    DARPA Challenge: Vehicles were largely Level 3 autonomy (capable of handling some tasks autonomously, but needing human intervention in complex situations).
+    Today's Self-Driving Cars: Many commercial vehicles now aim for Level 4 or 5 autonomy. Level 4 vehicles can operate autonomously under certain conditions, while Level 5 vehicles are fully autonomous in all environments (though Level 5 hasn’t been fully realized yet).
+
+4. Safety and Regulation
+
+    DARPA Challenge: There were no real-world safety requirements, and the challenge took place in isolated, controlled environments.
+    Today's Self-Driving Cars: Safety is paramount, with regulatory oversight and extensive real-world testing. Autonomous vehicles must meet stringent safety standards to operate on public roads.
