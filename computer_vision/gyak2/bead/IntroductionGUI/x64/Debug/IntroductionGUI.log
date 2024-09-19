@@ -1,0 +1,11 @@
+﻿  IntroductionGUI.cpp
+C:\Users\Sikos Márk\Documents\ELTE\computer_vision\gyak2\bead\IntroductionGUI\functions.hpp(89,15): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'IntroductionGUI.cpp')
+  
+C:\Users\Sikos Márk\Documents\ELTE\computer_vision\gyak2\bead\IntroductionGUI\functions.hpp(90,15): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'IntroductionGUI.cpp')
+  
+C:\Users\Sikos Márk\Documents\ELTE\computer_vision\gyak2\bead\IntroductionGUI\IntroductionGUI.cpp(18,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Sikos Márk\Documents\ELTE\computer_vision\gyak2\bead\IntroductionGUI\IntroductionGUI.cpp(22,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sikos Márk\Documents\ELTE\computer_vision\gyak2\bead\IntroductionGUI\IntroductionGUI.cpp(23,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  IntroductionGUI.vcxproj -> C:\Users\Sikos Márk\Documents\ELTE\computer_vision\gyak2\bead\x64\Debug\IntroductionGUI.exe
