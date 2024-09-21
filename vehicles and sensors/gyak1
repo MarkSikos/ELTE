@@ -14,32 +14,44 @@ Pioneering Autonomous Technology
     The challenges significantly advanced autonomous vehicle technology.
     Bridging the gap between research and real-world application.
 
+---------------------------------------------------------------------
 
 what is a robot? what are the categories of a robot?
 
 Robot is a machine that can operate on its own. The word robot comes from the slavic root (robot, first mentioned in czech - a fictional humanoid machine.) The six most common types of robots are autonomous mobile robots (AMRs), automated guided vehicles (AGVs), articulated robots, humanoids, cobots, and hybrids. (https://www.intel.com/content/www/us/en/robotics/types-and-applications.html). AMRs navigate autonomously, used in logistics and healthcare. AGVs follow fixed paths in factories for material transport. Articulated robots, with rotating joints, excel in tasks like welding and assembly. Humanoids resemble humans and are used in customer service and healthcare. Cobots work safely alongside humans in tasks like packaging. Hybrids combine features from multiple robot types for versatile use across industries like logistics and manufacturing.
 
+---------------------------------------------------------------------
+
 compare computers and robots -> which is whiches subset. What is the difference.
 
 Computers process data, execute software, and manage information but do not interact with the physical world. Robots, however, combine computational power with mechanical components, allowing them to perform tasks like movement and manipulation. Robots rely on computers for control, making them a subset of computers. Also, robots are capable of autonomous or semi-autonomous behaviour, howver not all computers are capable of such. (i.e. EDVAC). Computerts are computing units.
+
+---------------------------------------------------------------------
 
 difference between a robot and a self driving car?
 
 A robot is a machine that can perform tasks autonomously or semi-autonomously, often interacting with its environment through sensors, actuators, and computation. A self-driving car is a specific type of robot designed for autonomous navigation on roads. While both robots and self-driving cars use sensors, AI, and computational systems, the key difference is their function: robots perform a wide range of tasks, while self-driving cars are specialized for transportation and driving tasks.
 
+---------------------------------------------------------------------
 
 what is an autonomous vehicle?
 
 An autonomous vehicle is a vehicle capable of sensing its environment and operating without human intervention. It uses technologies such as cameras, sensors, GPS, radar, and AI-based software to perceive its surroundings, make decisions, and navigate safely. Autonomous vehicles range from self-driving cars to drones and are designed to perform driving tasks like steering, braking, and accelerating on their own.
 
+---------------------------------------------------------------------
+
 what types of vehicles exist? why are they important? what is their limit?
 
 The KRESZ (Hungarian Highway Code) classifies vehicles into three general categories: motor vehicles, which are powered by their own engine; non-motor vehicles, which may have their own engine but are not considered motor vehicles; and non-motorized vehicles, which do not have their own engine.
+
+---------------------------------------------------------------------
 
 what are the sensors? why sensors are important?
 
 A sensor is a device that detects and responds to some type of input from the physical environment. The input can be light, heat, motion, moisture, pressure or any number of other environmental phenomena. The output is generally a signal that is converted to a human-readable display at the sensor location or transmitted electronically over a network for reading or further processing.
 Sensors play a pivotal role in comuter science. They make it possible to create an ecosystem for collecting and processing data about a specific environment so it can be monitored, managed and controlled more easily and efficiently. (https://www.techtarget.com/whatis/definition/sensor)
+
+---------------------------------------------------------------------
 
 what type of sensors exist? whati is the importance of it? (main categories, why important)?
 (https://nybsys.com/types-of-sensors/)
@@ -65,8 +77,9 @@ what type of sensors exist? whati is the importance of it? (main categories, why
     Humidity Sensors: Measure air moisture. Used in HVAC, agriculture, weather monitoring.
     Electrical Sensors: Detect voltage, current, resistance. Used in power systems, electronics, railways.
 
-darpa challange vs nowadays self driving cars
+---------------------------------------------------------------------
 
+darpa challange vs nowadays self driving cars
 
 1) Goals and Environment
 
